@@ -1,0 +1,15 @@
+beautifulsoup4
+langchain
+langgraph
+langchainhub
+langchain-community
+tavily-python
+chromadb
+python-dotenv
+isort
+pytest
+urllib3==1.26.6
+langchain_chroma
+langchain_openai
+langchain_tavily
+grandalf

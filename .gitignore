@@ -1,0 +1,5 @@
+.chroma
+.crvenv
+.pytest_cache
+.idea
+.env
