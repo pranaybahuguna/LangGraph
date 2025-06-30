@@ -1,0 +1,6 @@
+python-dotenv
+isort
+langchain
+langchain-openai
+langgraph
+grandalf
